@@ -27,5 +27,6 @@ Link:-https://www.kaggle.com/kazanova/sentiment140/kernels
 Installing prerequisite software:
 **********************************************************
 1:-install python2.7
-
-2:-install numpy,pandas,scikit
+2:-install NLTK for text preprocessing
+3:install re
+4:-install numpy,pandas,scikit
